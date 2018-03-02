@@ -35,9 +35,9 @@ print(arr2)
 # 数组堆叠（竖直/水平）
 arr = np.arange(10).reshape(2, -1)
 arr2 = np.repeat(1, 10).reshape(2, -1)
-arr3 = np.concatenate([arr, arr2], axis=0) # / `axis=1`
-arr4 = np.vstack([arr, arr2]) # / `hstack`
-arr5 = np.r_[arr, arr2] # / `c_`
+arr3 = np.concatenate([arr, arr2], axis=0)  # / `axis=1`
+arr4 = np.vstack([arr, arr2])  # / `hstack`
+arr5 = np.r_[arr, arr2]  # / `c_`
 print(arr3)
 print(arr4)
 print(arr5)
@@ -69,6 +69,7 @@ index = np.where(np.logical_and(arr >= 5, arr <= 10))
 arr3 = arr[index]
 print(arr2)
 print(arr3)
+
 
 # 向量化运算
 def max_of(x, y):
@@ -121,7 +122,7 @@ print(arr)
 
 # 打印时限制元素数量？
 arr = np.arange(15)
-np.set_printoptions(threshold=10) # `threhold=np.nan`为不限制
+np.set_printoptions(threshold=10)  # `threshold=np.nan`为不限制
 print(arr)
 
-# 
+#
