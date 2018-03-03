@@ -1,4 +1,4 @@
 # hmn
 
-> Hierarchical Memory Network
+> Hierarchical Memory Network, 分层记忆网络
 
