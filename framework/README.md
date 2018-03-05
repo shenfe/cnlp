@@ -12,5 +12,6 @@
 
 ## resources
 
+* [facebookresearch/Detectron](https://github.com/facebookresearch/Detectron)
 * [ufoym/deepo](https://github.com/ufoym/deepo), a series of Docker images (and their generator) that allows you to quickly set up your deep learning research environment.
 
