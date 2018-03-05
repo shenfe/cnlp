@@ -1,4 +1,4 @@
-# perception
+# perceptron
 
 > 感知器
 
