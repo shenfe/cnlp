@@ -10,3 +10,5 @@
 
 * [Microsoft/MMdnn](https://github.com/Microsoft/MMdnn)
 * [josephmisiti/awesome-machine-learning](https://github.com/josephmisiti/awesome-machine-learning)
+* [snipsco/snips-nlu](https://github.com/snipsco/snips-nlu)
+
