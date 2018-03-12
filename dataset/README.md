@@ -12,4 +12,5 @@
 * [kevinchai.net/datasets](http://kevinchai.net/datasets)
 * [nltk.org/data](http://www.nltk.org/nltk_data/)
 * [chinese-poetry](https://github.com/chinese-poetry/chinese-poetry)
+* [第二届自然语言处理与中文计算会议（NLP&CC 2013）技术评测样例](http://tcci.ccf.org.cn/conference/2013/pages/page04_sam.html)
 
