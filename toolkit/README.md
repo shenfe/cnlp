@@ -16,6 +16,11 @@
 * [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [mloss.org](http://mloss.org/software/)
 
+## Chinese related
+
+* [Synonyms](https://github.com/huyingxi/Synonyms), 中文近义词工具包
+* [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp)
+
 ## apache series
 
 * [lucene](http://lucene.apache.org/core/), a high-performance, full-featured text search engine library
