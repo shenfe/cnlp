@@ -4,5 +4,5 @@
 
 *注意, Linear Discriminant Analysis (线性判别分析) 缩写也是LDA.*
 
-
+## LDA vs pLSA
 
