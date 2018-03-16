@@ -9,3 +9,7 @@
     * CNN, Seq2Seq
     * [GitHub](https://github.com/facebookresearch/fairseq)
 * [Achieving Human Parity on Automatic Chinese to English News Translation](https://arxiv.org/abs/1803.05567)
+    * Dual learning
+    * Deliberation network
+    * Joint training
+    * Agreement regularization
