@@ -1,4 +1,4 @@
 # nmf
 
-> 非负矩阵分解
+> Non-negative Matrix Factorization, 非负矩阵分解
 
