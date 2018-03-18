@@ -1,4 +1,4 @@
 # dbn
 
-> Deep Belief Network, 深度信念网络
+> Deep Belief Network, 深度置信网络
 
