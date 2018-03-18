@@ -8,3 +8,4 @@
 * [fastai](https://github.com/fastai/fastai)
 * [Hironsan/awesome-embedding-models](https://github.com/Hironsan/awesome-embedding-models)
 * [exacity/simplified-deeplearning](https://github.com/exacity/simplified-deeplearning)
+* [nlpworld](https://www.nlpworld.co.uk/nlp-glossary/)
