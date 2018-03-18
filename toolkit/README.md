@@ -15,6 +15,7 @@
 * [orange](https://orange.biolab.si/)
 * [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [mloss.org](http://mloss.org/software/)
+* [thunlp/OpenKE](https://github.com/thunlp/OpenKE)
 
 ## Chinese related
 
