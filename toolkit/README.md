@@ -16,6 +16,7 @@
 * [libsvm](https://www.csie.ntu.edu.tw/~cjlin/libsvm/)
 * [mloss.org](http://mloss.org/software/)
 * [thunlp/OpenKE](https://github.com/thunlp/OpenKE)
+* [PyTorch-NLP](https://github.com/PetrochukM/PyTorch-NLP)
 
 ## Chinese related
 

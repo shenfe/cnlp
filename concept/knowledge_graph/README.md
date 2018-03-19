@@ -17,4 +17,8 @@
 * CN-Probase
 * [openkg.cn](http://openkg.cn/)
 * [OpenKE](http://openke.thunlp.org/)
-
+* WordNet
+* HowNet
+* 同义词词林
+* 哈工大信息检索研究室同义词词林扩展版
+* 大词林
