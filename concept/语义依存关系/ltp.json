@@ -17,7 +17,7 @@
     "Poss": {
         "name": "领事关系",
         "explanation": "Possessor",
-        "example": "他有一本好术 (他 <-- 有)"
+        "example": "他有一本好书 (他 <-- 有)"
     },
     "Pat": {
         "name": "受事关系",
