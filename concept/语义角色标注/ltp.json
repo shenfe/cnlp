@@ -1,0 +1,60 @@
+{
+    "A0": {
+        "explanation": "动作的施事方"
+    },
+    "A1": {
+        "explanation": "动作的受事方"
+    },
+    "A2": {},
+    "A3": {},
+    "A4": {},
+    "A5": {},
+    "ADV": {
+        "explanation": "adverbial, default tag (附加的，默认标记)"
+    },
+    "BNE": {
+        "explanation": "beneﬁciary (受益人)"
+    },
+    "CND": {
+        "explanation": "condition (条件)"
+    },
+    "DIR": {
+        "explanation": "direction (方向)"
+    },
+    "DGR": {
+        "explanation": "degree (程度)"
+    },
+    "EXT": {
+        "explanation": "extent (扩展)"
+    },
+    "FRQ": {
+        "explanation": "frequency (频率)"
+    },
+    "LOC": {
+        "explanation": "locative (地点)"
+    },
+    "MNR": {
+        "explanation": "manner (方式)"
+    },
+    "PRP": {
+        "explanation": "purpose or reason (目的或原因)"
+    },
+    "TMP": {
+        "explanation": "temporal (时间)"
+    },
+    "TPC": {
+        "explanation": "topic (主题)"
+    },
+    "CRD": {
+        "explanation": "coordinated arguments (并列参数)"
+    },
+    "PRD": {
+        "explanation": "predicate (谓语动词)"
+    },
+    "PSR": {
+        "explanation": "possessor (持有者)"
+    },
+    "PSE": {
+        "explanation": "possessee (被持有)"
+    }
+}

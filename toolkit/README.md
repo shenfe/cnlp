@@ -20,6 +20,7 @@
 
 ## Chinese related
 
+* [哈工大语言技术平台云](https://www.ltp-cloud.com/intro/)
 * [Synonyms](https://github.com/huyingxi/Synonyms), 中文近义词工具包
 * [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp)
 

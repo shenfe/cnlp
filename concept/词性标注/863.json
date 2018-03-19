@@ -1,0 +1,123 @@
+{
+    "a": {
+        "name": "adjective",
+        "explanation": "形容词",
+        "example": "美丽"
+    },
+    "b": {
+        "name": "other noun-modifier",
+        "example": "大型 西式"
+    },
+    "c": {
+        "name": "conjunction",
+        "example": "和 虽然"
+    },
+    "d": {
+        "name": "adverb",
+        "example": "很"
+    },
+    "e": {
+        "name": "exclamation",
+        "example": "哎"
+    },
+    "g": {
+        "name": "morpheme",
+        "example": "茨 甥"
+    },
+    "h": {
+        "name": "prefix",
+        "example": "阿 伪"
+    },
+    "i": {
+        "name": "idiom",
+        "explanation": "成语，惯用语",
+        "example": "百花齐放"
+    },
+    "j": {
+        "name": "abbreviation",
+        "example": "公检法"
+    },
+    "k": {
+        "name": "suffix",
+        "example": "界 率"
+    },
+    "m": {
+        "name": "number",
+        "example": "一 第一"
+    },
+    "n": {
+        "name": "general noun",
+        "example": "苹果"
+    },
+    "nd": {
+        "name": "direction noun",
+        "example": "右侧"
+    },
+    "nh": {
+        "name": "person name",
+        "example": "杜甫 汤姆"
+    },
+    "ni": {
+        "name": "organization name",
+        "example": "保险公司"
+    },
+    "nl": {
+        "name": "location noun",
+        "example": "城郊"
+    },
+    "ns": {
+        "name": "geographical name",
+        "example": "北京"
+    },
+    "nt": {
+        "name": "temporal noun",
+        "explanation": "现世名词",
+        "example": "近日 明代"
+    },
+    "nz": {
+        "name": "other proper noun",
+        "example": "诺贝尔奖"
+    },
+    "o": {
+        "name": "onomatopoeia",
+        "explanation": "拟声词",
+        "example": "哗啦"
+    },
+    "p": {
+        "name": "preposition",
+        "explanation": "介词",
+        "example": "在 把"
+    },
+    "q": {
+        "name": "quantity",
+        "explanation": "量词",
+        "example": "个"
+    },
+    "r": {
+        "name": "pronoun",
+        "explanation": "代词",
+        "example": "我们"
+    },
+    "u": {
+        "name": "auxiliary",
+        "explanation": "辅助词",
+        "example": "的 地"
+    },
+    "v": {
+        "name": "verb",
+        "example": "跑 学习"
+    },
+    "wp": {
+        "name": "punctuation",
+        "example": "， 。 ！"
+    },
+    "ws": {
+        "name": "foreign words",
+        "example": "CPU"
+    },
+    "x": {
+        "name": "non-lexeme",
+        "explanation": "非词位",
+        "example": "萄 翱"
+    }
+}
