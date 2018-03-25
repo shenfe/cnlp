@@ -4,11 +4,11 @@
 
 ## summary
 
-[A summary](./summary.md)
+[Summary](./summary.md)
 
 ## glossary
 
-[glossary](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
+[Glossary](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
 
 ### A
 
