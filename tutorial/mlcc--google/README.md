@@ -2,6 +2,10 @@
 
 > [Machine Learning Crash Course](https://developers.google.cn/machine-learning/crash-course/?hl=zh-CN)
 
+## summary
+
+[A summary](./summary.md)
+
 ## glossary
 
 [glossary](https://developers.google.cn/machine-learning/glossary/?hl=zh-CN)
