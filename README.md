@@ -1,6 +1,6 @@
 # cnlp
 
-## Requirements
+## Programming Environment
 
 * Python 3
 * Java 9
