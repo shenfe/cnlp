@@ -12,7 +12,7 @@ for d in `ls`; do
         continue
     fi
     echo "2: ${d}"
-    find ${d} -type d -print0 | while IFS= read -r -d '' f; do
-        [ "$(ls ${f})" ] || create_readme_in_empty_dir "${f}"
+    find "${d}" -type d -print0 | while IFS= read -r -d '' f; do
+        [ "$(ls "${f}")" ] || create_readme_in_empty_dir "${f}"
     done
 done
