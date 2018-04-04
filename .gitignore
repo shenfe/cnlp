@@ -3,3 +3,4 @@
 .DS_Store
 .py3env
 __pycache__
+icwb2-data*
