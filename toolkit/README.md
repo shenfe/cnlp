@@ -23,6 +23,7 @@
 * [哈工大语言技术平台云](https://www.ltp-cloud.com/intro/)
 * [Synonyms](https://github.com/huyingxi/Synonyms), 中文近义词工具包
 * [awesome-chinese-nlp](https://github.com/crownpku/awesome-chinese-nlp)
+* [中文分词库](https://www.oschina.net/project/tag/264/segment)
 
 ## apache series
 
